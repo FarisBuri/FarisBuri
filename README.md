@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @FarisBuri
+- 🎓 I'm Graduate From IPA 
 - 👀 I’m interested in [ Full Stack Developer , Front End , Back End] 
 - 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on ...
